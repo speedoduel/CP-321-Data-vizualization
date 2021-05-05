@@ -10,4 +10,4 @@
 - - PCA and some other common dimensional reductionality concepts
 - - Explaining the data and it's insights in the form of a story
 ### Only 2 assignments were provided to all the students due to the COVID 19 Pandemic
-### the majority of the weightage of the entire course lied on the group project and Final
+### the majority of the weightage of the entire course grade relied on the group project and Final
