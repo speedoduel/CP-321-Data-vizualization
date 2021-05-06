@@ -9,5 +9,11 @@
 - - basics of HTML, CSS, Javascript and Flask
 - - PCA and some other common dimensional reductionality concepts
 - - Explaining the data and it's insights in the form of a story
+
+![](images/giphy.gif)
 ### Only 2 assignments were provided to all the students due to the COVID 19 Pandemic
-### the majority of the weightage of the entire course grade relied on the group project and Final
+### Group Project created on Province wise vaccine distribution analysis for COVID 19 Pandemic in Canada 
+#### Insepcting on which regions should be recieve more emphasis on doses and how to optimally use the vaccine supply prioir to them hitting their expiry date
+![](images/gopgip.gif)
+
+
